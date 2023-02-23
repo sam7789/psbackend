@@ -22,7 +22,7 @@ This was a collaborative project of six member to create a clone of pluralsight 
 
 ## API Reference
 
-#### API Link :- https://pluralsightapi.herokuapp.com
+#### API Link :- https://pluralsightapi.herokuapp.com  ||  https://plural-sight-api.onrender.com
 
 #### Get all items
 
